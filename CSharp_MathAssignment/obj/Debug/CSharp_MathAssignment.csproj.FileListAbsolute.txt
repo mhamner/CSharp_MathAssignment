@@ -1,0 +1,7 @@
+C:\Users\mark.hamner\source\repos\CSharp_MathAssignment\CSharp_MathAssignment\bin\Debug\CSharp_MathAssignment.exe.config
+C:\Users\mark.hamner\source\repos\CSharp_MathAssignment\CSharp_MathAssignment\bin\Debug\CSharp_MathAssignment.exe
+C:\Users\mark.hamner\source\repos\CSharp_MathAssignment\CSharp_MathAssignment\bin\Debug\CSharp_MathAssignment.pdb
+C:\Users\mark.hamner\source\repos\CSharp_MathAssignment\CSharp_MathAssignment\obj\Debug\CSharp_MathAssignment.csprojAssemblyReference.cache
+C:\Users\mark.hamner\source\repos\CSharp_MathAssignment\CSharp_MathAssignment\obj\Debug\CSharp_MathAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mark.hamner\source\repos\CSharp_MathAssignment\CSharp_MathAssignment\obj\Debug\CSharp_MathAssignment.exe
+C:\Users\mark.hamner\source\repos\CSharp_MathAssignment\CSharp_MathAssignment\obj\Debug\CSharp_MathAssignment.pdb
